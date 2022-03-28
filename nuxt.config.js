@@ -13,38 +13,6 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Hanalei&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Butcherman&family=Hanalei&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Nosifer&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Akronim&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Oxygen&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Alegreya&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Roboto&display=swap"},
-
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Comforter&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Sura:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Tillana&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@800&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Mulish&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Poppins&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@800&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Sura:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Sumana:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Sahitya:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Arya:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Vesper+Libre:wght@900&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Hind:wght@700&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Martel:wght@900&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Yantramanav:wght@900&display=swap"},
-      // {rel:"stylesheet",href:"https://fonts.googleapis.com/css2?family=Eczar:wght@800&display=swap"}
     ]
   },
 
