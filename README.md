@@ -1,5 +1,5 @@
 # Google Fonts Module for NuxtJS. & Canvas text Google fonts use
-<img src="https://raw.githubusercontent.com/krishnawaghmode/CanvasNuxtJs/main/assets/NuxtJsCanvas.png" width="800">
+<img src="https://raw.githubusercontent.com/krishnawaghmode/Google-Fonts-NuxtJS/main/assets/Screenshot.png" width="800">
 
 ## Build Setup
 
